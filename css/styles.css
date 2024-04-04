@@ -274,22 +274,23 @@ display: block;
 
 .icon-team-container-ul {
         list-style-type: none;
-        padding: 0;
-        margin: 0;
+        margin-top: 8px;
+        margin-left: 16px;
+        display: flex;
+        gap: 24px;
+        text-align: center;
 }
 
-.icon-team-container {
-        margin-right: 24px;
-        background-color: #4d5ae5;
+.icon-team-container{
 display: flex;
         align-items: center;
         justify-content: center;
         flex-direction: row;
-        gap: 24px;
-width: 232px;
+        width: 40px;
         height: 40px;
+        background-color: #4d5ae5;
         border-radius: 50%;
-
+         
 
 }
 
