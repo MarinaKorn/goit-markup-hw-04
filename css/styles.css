@@ -342,7 +342,7 @@ fill: #f4f4fd
 }
 
 .icon-team-container:hover{
-background-color: #404bbf;
+background-color: #31d0aa;
 }
 
 .team-div{
@@ -461,6 +461,15 @@ margin-bottom: 16px;
 color: #f4f4fd;
 }
 
+.icon-footer-container-ul{
+        list-style-type: none;
+                margin-left: 16px;
+                display: flex;
+                gap: 16px;
+                text-align: center;
+
+}
+
 .social-media{
                 font-weight: 500;
                 font-size: 16px;
@@ -469,9 +478,11 @@ color: #f4f4fd;
                 letter-spacing: 0.02em;
                 color: #fff;
                 margin-right: 540px;
-                margin-top: 100px;
                 margin-bottom: 16px;
 
+}
+.icon-footer{
+        gap: 16px;
 }
 
 .container-logo{
@@ -480,7 +491,7 @@ color: #f4f4fd;
 
 .container-media {
 
-
+margin-bottom: 16px;
 }
 
 .container-logo-all{
