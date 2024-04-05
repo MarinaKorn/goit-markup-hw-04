@@ -80,7 +80,7 @@ margin: 0 auto;
        gap: 40px;
 }
 
-.current{
+.nav-link.current{
         position: relative;
         color: #404bbf;
 }
