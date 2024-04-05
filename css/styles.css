@@ -342,7 +342,9 @@ fill: #f4f4fd
 
 }
 
-.icon-a:hover{
+.icon-a:hover,
+.icon-a:focus
+{
 background-color: #404bbf;
 }
 
@@ -516,6 +518,9 @@ color: #f4f4fd;
 }
 .icon-a-fotter:hover {
         background-color: #31d0aa;
+}
+.icon-a-fotter:focus{
+background-color: #31d0aa;
 }
 
 .container-logo{
