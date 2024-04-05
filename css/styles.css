@@ -461,6 +461,16 @@ margin-bottom: 16px;
 color: #f4f4fd;
 }
 
+.icon-a-fotter{
+width: 40px;
+        height: 40px;
+        background-color: #4d5ae5;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
 .icon-footer-container-ul{
         list-style-type: none;
 
@@ -471,13 +481,6 @@ color: #f4f4fd;
 }
 
 .icon-footer-container{
-        width: 40px;
-        height: 40px;
-        background-color: #4d5ae5;
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
 }
 
 .social-media{
